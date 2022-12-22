@@ -7,10 +7,10 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringMVCFormApp</name>
 	<url>http://maven.apache.org</url>
-	<properties> 
+	<!-- <properties> 
 		<maven.compiler.source>1.6</maven.compiler.source> 
 		<maven.compiler.target>1.6</maven.compiler.target> 
-	</properties>
+	</properties> -->
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
